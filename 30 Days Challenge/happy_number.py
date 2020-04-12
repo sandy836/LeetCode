@@ -9,5 +9,4 @@ class Solution(object):
             if _sum == 4:
                 return False
             n = _sum
-        
         return True
